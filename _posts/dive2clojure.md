@@ -1,9 +1,5 @@
----
-layout: default
-title: divetoclojure
----
 #destructuring
-```
+```clojure
 (def guys-name-map
   {:f-name "Guy" :m-name "Lewis" :l-name "Steele"})
 (let [{f-name :f-name1} guys-name-map]
