@@ -1,4 +1,4 @@
-#destructuring
+#destructing
 ```clojure
 (def guys-name-map
   {:f-name "Guy" :m-name "Lewis" :l-name "Steele"})
