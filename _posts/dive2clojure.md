@@ -1,3 +1,7 @@
+---
+layout: default
+title: divetoclojure
+---
 #destructuring
 ```
 (def guys-name-map
